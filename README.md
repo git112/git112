@@ -1,4 +1,4 @@
-# Hi 👋! I'm Naseta — building intelligent apps that actually ship😁🚀
+# Building intelligent apps that actually ship😁🚀
 
 # 💫 About Me:
 💻 Full Stack Developer with an AI twist – I love mixing MERN + Machine Learning to build intelligent apps.<br>
